@@ -1,2 +1,2 @@
 # hello-world
-Test only for noone
+Test only for no-one
